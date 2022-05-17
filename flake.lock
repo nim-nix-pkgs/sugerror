@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651918489,
-        "narHash": "sha256-EGaQIrJpwj5aMVXQRGPiWmG2+hMQPEZohWlIGxU7biU=",
+        "lastModified": 1652391617,
+        "narHash": "sha256-zvw7FaKBtk1DuSCmHeuC++mfKjY5IA2EzK3D40qQgew=",
         "owner": "nim-nix-pkgs",
         "repo": "sugerror",
-        "rev": "e9535cd9b764ad0dd72aca327417f1d139c5c2ce",
+        "rev": "f548a250349df33f081205528429e2d26701904d",
         "type": "github"
       },
       "original": {
